@@ -51,3 +51,7 @@
 ## Entrada 12 - 2020-01-29
 
 13. En el año 3152, una flota espectral emergió, y Zeyra, la portadora del fragmento cósmico descubrió la verdad oculta tras el velo cuántico.
+
+## Entrada 13 - 2020-01-31
+
+14. Bajo la sombra de la galaxia 3153, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
