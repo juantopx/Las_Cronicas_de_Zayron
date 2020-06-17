@@ -287,3 +287,7 @@
 ## Entrada 71 - 2020-06-15
 
 72. En la estación orbital de Xentar 3211, una anomalía gravitacional arrastró a la colonia a otra dimensión, y el capitán de la nave Orión Delta enfrentó a los Guardianes del Vacío.
+
+## Entrada 72 - 2020-06-17
+
+73. En el año 3212, una flota espectral emergió, y Zeyra, la portadora del fragmento cósmico descubrió la verdad oculta tras el velo cuántico.
