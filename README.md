@@ -443,3 +443,7 @@
 ## Entrada 110 - 2020-09-14
 
 111. A orillas del sector olvidado 3250, un heraldo interestelar cruzó la frontera del tiempo, y Lior, el viajero de la red neural lideró una fuga entre dimensiones rotas.
+
+## Entrada 111 - 2020-09-16
+
+112. En las ruinas de Zaryon 3251, los archivos del Núcleo fueron violentamente abiertos, y un androide sin memoria llamado V9-K cambió el curso del tiempo con una palabra prohibida.
