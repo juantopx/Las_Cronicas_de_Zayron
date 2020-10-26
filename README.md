@@ -511,3 +511,7 @@
 ## Entrada 127 - 2020-10-23
 
 128. Bajo la sombra de la galaxia 3267, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
+
+## Entrada 128 - 2020-10-26
+
+129. A orillas del sector olvidado 3268, un heraldo interestelar cruzó la frontera del tiempo, y Lior, el viajero de la red neural lideró una fuga entre dimensiones rotas.
