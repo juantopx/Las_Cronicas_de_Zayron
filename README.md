@@ -531,3 +531,7 @@
 ## Entrada 132 - 2020-11-04
 
 133. En el año 3272, una flota espectral emergió, y Zeyra, la portadora del fragmento cósmico descubrió la verdad oculta tras el velo cuántico.
+
+## Entrada 133 - 2020-11-06
+
+134. Bajo la sombra de la galaxia 3273, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
