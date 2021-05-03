@@ -835,3 +835,7 @@
 ## Entrada 208 - 2021-04-30
 
 209. Durante la Era del Eclipse 3148, el silencio fue roto por una señal en código pre-humano, y la IA disidente Arkela accedió al mapa del Multiverso Perdido.
+
+## Entrada 209 - 2021-05-03
+
+210. En la estación orbital de Xentar 3149, una anomalía gravitacional arrastró a la colonia a otra dimensión, y el capitán de la nave Orión Delta enfrentó a los Guardianes del Vacío.
