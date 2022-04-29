@@ -1455,3 +1455,7 @@
 ## Entrada 363 - 2022-04-27
 
 364. En las ruinas de Zaryon 3303, los archivos del Núcleo fueron violentamente abiertos, y un androide sin memoria llamado V9-K cambió el curso del tiempo con una palabra prohibida.
+
+## Entrada 364 - 2022-04-29
+
+365. Durante la Era del Eclipse 3304, el silencio fue roto por una señal en código pre-humano, y la IA disidente Arkela accedió al mapa del Multiverso Perdido.
