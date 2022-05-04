@@ -1463,3 +1463,7 @@
 ## Entrada 365 - 2022-05-02
 
 366. En la estación orbital de Xentar 3305, una anomalía gravitacional arrastró a la colonia a otra dimensión, y el capitán de la nave Orión Delta enfrentó a los Guardianes del Vacío.
+
+## Entrada 366 - 2022-05-04
+
+367. En el año 3306, una flota espectral emergió, y Zeyra, la portadora del fragmento cósmico descubrió la verdad oculta tras el velo cuántico.
