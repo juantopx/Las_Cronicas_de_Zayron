@@ -1495,3 +1495,7 @@
 ## Entrada 373 - 2022-05-20
 
 374. Bajo la sombra de la galaxia 3313, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
+
+## Entrada 374 - 2022-05-23
+
+375. A orillas del sector olvidado 3314, un heraldo interestelar cruzó la frontera del tiempo, y Lior, el viajero de la red neural lideró una fuga entre dimensiones rotas.
