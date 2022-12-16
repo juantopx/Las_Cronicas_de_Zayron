@@ -1851,3 +1851,7 @@
 ## Entrada 462 - 2022-12-14
 
 463. En el año 3202, una flota espectral emergió, y Zeyra, la portadora del fragmento cósmico descubrió la verdad oculta tras el velo cuántico.
+
+## Entrada 463 - 2022-12-16
+
+464. Bajo la sombra de la galaxia 3203, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
