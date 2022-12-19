@@ -1855,3 +1855,7 @@
 ## Entrada 463 - 2022-12-16
 
 464. Bajo la sombra de la galaxia 3203, una rebelión ancestral despertó, y Kael, el último archivista de la Orden de Luz Negra activó la secuencia dormida de los Templos Estelares.
+
+## Entrada 464 - 2022-12-19
+
+465. A orillas del sector olvidado 3204, un heraldo interestelar cruzó la frontera del tiempo, y Lior, el viajero de la red neural lideró una fuga entre dimensiones rotas.
