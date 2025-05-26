@@ -1,4 +1,5 @@
 # Las Crónicas de Zaryon
+(Esta historia fue empezada en 2020 durante la pandemia)
 
 ## Entrada 0 - 2020-01-01
 
